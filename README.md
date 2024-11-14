@@ -20,7 +20,7 @@
 
   <!-- Portfolio -->
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" width="65/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" width="65/>
   </a>
       
   <!-- Resume -->
