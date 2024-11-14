@@ -10,7 +10,7 @@
   
   <!-- Google Skill Boost -->
   <a href="https://skillboost.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Google Skill Boost" title="Google Skill Boost Profile"/>
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Skill Boost" title="Google Skill Boost Profile"/>
   </a>
 
   <!-- Portfolio -->
