@@ -5,7 +5,7 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/arihant-jain-5bbbb2278" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn Profile"/>
+    <img src="https://icons8.com/icons/set/linkedin-logo.png" alt="LinkedIn" title="LinkedIn Profile"/>
   </a>
   
   <!-- Google Skill Boost -->
