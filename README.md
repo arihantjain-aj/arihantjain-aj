@@ -5,12 +5,12 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/arihant-jain-5bbbb2278" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="70" title="LinkedIn Profile"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn Profile" width="70"/>&nbsp;
   </a>
   
   <!-- Google Skill Boost -->
   <a href="https://skillboost.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Skill Boost" width="70" title="Google Skill Boost Profile"/>
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Skill Boost" title="Google Skill Boost Profile" width="70"/>
   </a>
 
   <!-- Portfolio -->
