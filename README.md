@@ -59,4 +59,4 @@
 ###
 
 
-<img src="https://raw.githubusercontent.com/arihantjain-aj/arihantjain-aj/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/arihantjain-aj/arihantjain-aj/output/snake.svg" alt="Snake animation" width="100%" />
