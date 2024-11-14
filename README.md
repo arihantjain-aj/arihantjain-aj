@@ -20,7 +20,7 @@
 
   <!-- Itch.io -->
   <a href="https://your-itch-io-link.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/itch-io.png" alt="Itch.io" title="Itch.io Profile"/>
+    <img src="https://icons8.com/icon/mVIL3VQMOa5H/itch-io" alt="Itch.io" title="Itch.io Profile"/>
   </a>
 
   <!-- Resume -->
