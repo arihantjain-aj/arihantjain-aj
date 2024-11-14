@@ -25,6 +25,6 @@
       
   <!-- Resume -->
   <a href="https://drive.google.com/your-resume-link" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=4rzOerPFTcOo&format=png&color=000000" alt="Resume" title="Resume" width="65"/>
+    <img src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000" alt="Resume" title="Resume" width="65"/>
   </a>
 </p>
