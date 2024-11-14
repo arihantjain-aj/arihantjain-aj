@@ -9,22 +9,22 @@
   </a>
   
   <!-- Google Skill Boost -->
-  <a href="https://skillboost.google.com/" target="_blank">
+  <a href="https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Skill Boost" title="Google Skill Boost Profile" width="65"/>&nbsp;&nbsp;
   </a>
 
   <!-- Itch.io -->
-  <a href="https://your-itch-io-link.com" target="_blank">
+  <a href="https://arihant-jain.itch.io/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000" alt="Itch.io" title="Itch.io Profile" width="65"/>&nbsp;&nbsp;
   </a>
 
   <!-- Portfolio -->
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" width="65/>&nbsp;&nbsp;
   </a>
       
   <!-- Resume -->
-  <a href="https://drive.google.com/your-resume-link" target="_blank">
+  <a href="https://docs.google.com/document/d/1XLMYuQn8EONP2Q9CjjNIgS9VUQ5F8qoz/edit?usp=sharing&ouid=100654591999028856307&rtpof=true&sd=true" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000" alt="Resume" title="Resume" width="65"/>
   </a>
 </p>
