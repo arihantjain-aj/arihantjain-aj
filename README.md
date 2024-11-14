@@ -51,6 +51,78 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
+<!-- Programming Languages -->
+### Programming Languages
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
+  </a>
+</p>
+
+<!-- Web Technologies -->
+### Web Technologies
+<p align="left">
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" title="PHP"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
+  </a>
+  <a href="https://wordpress.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" title="WordPress"/>
+  </a>
+</p>
+
+<!-- Other Technologies -->
+### Other Technologies
+<p align="left">
+  <a href="https://developer.android.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android (Java)" title="Android (Java)"/>
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" title="Unity"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/>
+  </a>
+</p>
+
+<!-- Tools -->
+### Tools
+<p align="left">
+  <a href="https://www.apachefriends.org/index.html" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" title="XAMPP"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" title=".NET"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" title="Android Studio"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" title="Visual Studio"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub"/>
+  </a>
+</p>
+
+
 ###
 
 <div align="left">
