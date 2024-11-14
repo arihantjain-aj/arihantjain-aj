@@ -123,22 +123,17 @@
 </p>
 
 <!-- Programming Languages -->
+<!-- Programming Languages -->
 ### Programming Languages
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
-      <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#" style="display: block;"/>
-    </div>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
   <a href="https://www.java.com" target="_blank">
-    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" style="display: block;"/>
-    </div>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
   <a href="https://www.python.org" target="_blank">
-    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" style="display: block;"/>
-    </div>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
 </p>
 
@@ -146,28 +141,60 @@
 ### Web Technologies
 <p align="left">
   <a href="https://www.php.net/" target="_blank">
-    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
-      <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" title="PHP" style="display: block;"/>
-    </div>
+    <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" title="PHP" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
-      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" style="display: block;"/>
-    </div>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
-      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" style="display: block;"/>
-    </div>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
   <a href="https://wordpress.com/" target="_blank">
-    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
-      <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" title="WordPress" style="display: block;"/>
-    </div>
+    <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" title="WordPress" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
 </p>
 
-<!-- Additional sections for Other Technologies and Tools would follow the same pattern. -->
+<!-- Other Technologies -->
+### Other Technologies
+<p align="left">
+  <a href="https://developer.android.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android (Java)" title="Android (Java)" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" title="Unity" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+</p>
+
+<!-- Tools -->
+### Tools
+<p align="left">
+  <a href="https://www.apachefriends.org/index.html" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" title="XAMPP" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" title=".NET" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" title="Android Studio" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" title="Visual Studio" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
+  </a>
+</p>
+
+
 
 
 ###
