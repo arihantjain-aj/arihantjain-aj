@@ -15,7 +15,7 @@
 
   <!-- Portfolio -->
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" title="Portfolio"/>
+    <img src="https://img.icons8.com/ios-filled/50/000000/portfolio-website.png" alt="Portfolio" title="Portfolio"/>
   </a>
 
   <!-- Itch.io -->
