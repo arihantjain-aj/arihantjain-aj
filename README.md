@@ -24,7 +24,7 @@
   </a>
       
   <!-- Resume -->
-  <a href="https://docs.google.com/document/d/1XLMYuQn8EONP2Q9CjjNIgS9VUQ5F8qoz/edit?usp=sharing&ouid=100654591999028856307&rtpof=true&sd=true" target="_blank">
+  <a href="https://docs.google.com/document/d/1XLMYuQn8EONP2Q9CjjNIgS9VUQ5F8qoz/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000" alt="Resume" title="Resume" width="65"/>
   </a>
 </p>
