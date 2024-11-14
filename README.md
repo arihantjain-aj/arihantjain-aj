@@ -10,12 +10,12 @@
   
   <!-- Google Skill Boost -->
   <a href="https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Skill Boost" title="Google Skill Boost Profile" style="border:0; margin: 0 10px;" width="55"/>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Skill Boost" title="Google Skill Boost Profile" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
   </a>
 
   <!-- Itch.io -->
   <a href="https://arihant-jain.itch.io/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000" alt="Itch.io" title="Itch.io Profile" style="border:0; margin: 0 10px;" width="55"/>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000" alt="Itch.io" title="Itch.io Profile" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
   </a>
 
   <!-- Portfolio -->
@@ -25,7 +25,7 @@
       
   <!-- Resume -->
   <a href="https://docs.google.com/document/d/1XLMYuQn8EONP2Q9CjjNIgS9VUQ5F8qoz/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000" alt="Resume" title="Resume" style="border:0; margin: 0 10px;" width="55"/>
+    <img src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000" alt="Resume" title="Resume" style="border:0; margin: 0 10px;" width="5%"/>
   </a>
 </p>
 
