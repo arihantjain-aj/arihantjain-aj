@@ -122,6 +122,53 @@
   </a>
 </p>
 
+<!-- Programming Languages -->
+### Programming Languages
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#" style="display: block;"/>
+    </div>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" style="display: block;"/>
+    </div>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" style="display: block;"/>
+    </div>
+  </a>
+</p>
+
+<!-- Web Technologies -->
+### Web Technologies
+<p align="left">
+  <a href="https://www.php.net/" target="_blank">
+    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
+      <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" title="PHP" style="display: block;"/>
+    </div>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" style="display: block;"/>
+    </div>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" style="display: block;"/>
+    </div>
+  </a>
+  <a href="https://wordpress.com/" target="_blank">
+    <div style="display: inline-block; background-color: rgba(0, 0, 0, 0.1); border-radius: 50%; padding: 10px; margin: 5px;">
+      <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" title="WordPress" style="display: block;"/>
+    </div>
+  </a>
+</p>
+
+<!-- Additional sections for Other Technologies and Tools would follow the same pattern. -->
+
 
 ###
 
