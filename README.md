@@ -20,7 +20,7 @@
 
   <!-- Portfolio -->
   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/portfolio-website.png" alt="Portfolio" title="Portfolio" width="65/>&nbsp;
+    <img src="https://ideogram.ai/g/dMOInz-sQz2vH9yteGmZhA/1" alt="Portfolio" title="Portfolio" width="65/>&nbsp;
   </a>
       
   <!-- Resume -->
