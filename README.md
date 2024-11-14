@@ -5,27 +5,27 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/arihant-jain-5bbbb2278" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn Profile" style="border:0; margin: 0 10px; " width="700"/>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn Profile" style="border:0; margin: 0 10px; " width="55"/>&nbsp;&nbsp;
   </a>
   
   <!-- Google Skill Boost -->
   <a href="https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Skill Boost" title="Google Skill Boost Profile" style="border:0; margin: 0 10px;" width="700"/>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Skill Boost" title="Google Skill Boost Profile" style="border:0; margin: 0 10px;" width="55"/>&nbsp;&nbsp;
   </a>
 
   <!-- Itch.io -->
   <a href="https://arihant-jain.itch.io/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000" alt="Itch.io" title="Itch.io Profile" style="border:0; margin: 0 10px;" width="700"/>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000" alt="Itch.io" title="Itch.io Profile" style="border:0; margin: 0 10px;" width="55"/>&nbsp;&nbsp;
   </a>
 
   <!-- Portfolio -->
   <a href="" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" style="border:0; margin: 0 10px;" width="700"/>&nbsp;&nbsp;
+    <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" style="border:0; margin: 0 10px;" width="55"/>&nbsp;&nbsp;
   </a>
       
   <!-- Resume -->
   <a href="https://docs.google.com/document/d/1XLMYuQn8EONP2Q9CjjNIgS9VUQ5F8qoz/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000" alt="Resume" title="Resume" style="border:0; margin: 0 10px;" width="700"/>
+    <img src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000" alt="Resume" title="Resume" style="border:0; margin: 0 10px;" width="55"/>
   </a>
 </p>
 
