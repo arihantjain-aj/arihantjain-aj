@@ -10,7 +10,7 @@
   </a>
   
   <!-- Google Skill Boost -->
-  <a href="https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b" target="_blank" style="text-decoration: none;">
+  <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Skill Boost" title="Google Skill Boost Profile" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
   </a>
 
@@ -30,13 +30,12 @@
   </a>
 </p>
 <h2></h2>
-### <h2>About Me</h2>
+<h2>About Me</h2>
 
-💻 I’m a tech enthusiast who loves diving into programming, AI, and game development.  
+<img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="10" height="10">💻 I’m a tech enthusiast who loves diving into programming, AI, and game development.  
 🎮 I’ve created a few games, and you can [check them out on itch.io](#)! I’d love to know what you think.  
-🎶 Outside of tech, I’m usually listening to music, playing chess, or picking up new skills.  
-🌟 I’ve earned some badges in AI and other tech skills. You can [take a look at them here](#)!  
-
+🌟 I’ve earned some badges in AI and other tech skills. You can [take a look at them here](https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b)! 
+🎶 Outside of tech, I’m usually listening to music, playing chess, or picking up new skills.   
 ✉️ I’m always up for interesting conversations! Feel free to reach out to me via email at [arihantjain7340@gmail.com](mailto:arihantjain7340@gmail.com).  
 ⭐ If you enjoy my work, consider giving this repo a star – it means a lot and keeps me motivated!
 
