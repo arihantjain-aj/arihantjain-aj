@@ -33,7 +33,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+ 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
  
@@ -49,29 +49,19 @@
   
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  
   
 </div>
 
-
 <!-- Programming Languages -->
 ### Programming Languages
+<br clear="both">
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C Sharp" title="C Sharp" />
@@ -83,6 +73,7 @@
 
 <!-- Web Technologies -->
 ### Web Technologies
+<br clear="both">
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="Html" />
@@ -96,24 +87,26 @@
 
 <!-- Other Technologies -->
 ### Other Technologies
-<p align="left">
-  <a href="https://developer.android.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android (Java)" title="Android (Java)"/>
-  </a>
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" title="Unity"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" title="MySQL"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/>
-  </a>
-</p>
+<br clear="both">
+<div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" title="Android" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" title="Unity" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="My Sql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" title="Ms Sql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo" title="Ms Dos" />
+</div>
 
 <!-- Tools -->
 ### Tools
-<p align="left">
+<br clear="both">
+<div align="left">
   <a href="https://www.apachefriends.org/index.html" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" title="XAMPP"/>
   </a>
@@ -132,10 +125,8 @@
   <a href="https://github.com/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub"/>
   </a>
-</p>
+</div>
 
-<!-- Programming Languages -->
-<!-- Programming Languages -->
 ### Programming Languages
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
