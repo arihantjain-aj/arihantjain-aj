@@ -31,7 +31,6 @@
 
 <!-- Programming Languages -->
 ### Programming Languages
-<br clear="both">
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C Sharp" title="C Sharp" />
@@ -40,10 +39,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
 </div>
+<br clear="both">
 
 <!-- Web Technologies -->
 ### Web Technologies
-<br clear="both">
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="Html" />
@@ -54,10 +53,10 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" height="40" alt="wordpress logo" title="Wordpress" />
 </div>
+<br clear="both">
 
 <!-- Other Technologies -->
 ### Other Technologies
-<br clear="both">
 <div align="left">
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/android-os.png" height="40" alt="android logo" title="Android" />
@@ -72,10 +71,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo" title="MS Dos" />
 </div>
+<br clear="both">
 
 <!-- Tools -->
 ### Tools
-<br clear="both">
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" title="Android Studios" />
@@ -91,6 +90,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" title="Visual Studios" />
 </div>
-
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/arihantjain-aj/arihantjain-aj/output/snake.svg" alt="Snake animation" width="100%" />
