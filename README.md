@@ -90,11 +90,11 @@
 <br clear="both">
 <div align="left">
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" title="Android" />
+  <img src="https://img.icons8.com/color/48/000000/android-os.png" height="40" alt="android logo" title="Android" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" title="Unity" />
+  <img src="https://img.icons8.com/color/48/000000/unity.png" height="40" alt="unity logo" title="Unity" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="My Sql" />
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" height="40" alt="mysql logo" title="My Sql" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" title="Ms Sql" />
   <img width="12" />
@@ -159,16 +159,6 @@
 
 <!-- Other Technologies -->
 ### Other Technologies
-<p align="left">
-  <a href="https://developer.android.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android (Java)" title="Android (Java)" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/unity.png" alt="Unity" title="Unity" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
