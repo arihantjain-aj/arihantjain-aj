@@ -32,7 +32,13 @@
 
 <h2>About Me</h2>
 <p><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</p>
-<img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35" style="vertical-align: middle; margin-right: 5px; display: inline-block;"> I’m a tech enthusiast who loves diving into programming, AI, and game development.
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"></td>
+    <td>I’m a tech enthusiast who loves diving into programming, AI, and game development.</td>
+  </tr>
+</table>
+
 
 
 🎮 I’ve created a few games, and you can [check them out on itch.io](#)! I’d love to know what you think.  
