@@ -30,7 +30,7 @@
 </p>
 
 <!-- Programming Languages -->
-### Programming Languages
+### <h2>Programming Languages<h2>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C Sharp" title="C Sharp" />
