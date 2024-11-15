@@ -30,11 +30,6 @@
 </p>
 
 ###
-
-<br clear="both">
-
-<br clear="both">
-
 <br clear="both">
 
 <div align="left">
@@ -81,18 +76,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-###
-###
 
 <!-- Programming Languages -->
 ### Programming Languages
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
-  </a>
+  <
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
   </a>
