@@ -79,10 +79,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo" title=".Net" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" height="40" alt="git logo" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" title="Github" />
-  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" height="40" alt="github logo" title="Github" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="Vs Code" />
   <img width="12" />
