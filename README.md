@@ -30,6 +30,16 @@
   </a>
 </p>
 <h2></h2>
+### <h2>About Me</h2>
+
+💻 I’m a tech enthusiast who loves diving into programming, AI, and game development.  
+🎮 I’ve created a few games, and you can [check them out on itch.io](#)! I’d love to know what you think.  
+🎶 Outside of tech, I’m usually listening to music, playing chess, or picking up new skills.  
+🌟 I’ve earned some badges in AI and other tech skills. You can [take a look at them here](#)!  
+
+✉️ I’m always up for interesting conversations! Feel free to reach out to me via email at [arihantjain7340@gmail.com](mailto:arihantjain7340@gmail.com).  
+⭐ If you enjoy my work, consider giving this repo a star – it means a lot and keeps me motivated!
+
 
 <!-- Programming Languages -->
 ### <h2>Programming Languages</h2>
