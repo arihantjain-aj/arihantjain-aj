@@ -29,36 +29,6 @@
   </a>
 </p>
 
-###
-<br clear="both">
-
-<div align="left">
- 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
- 
- 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  
-  
-  
-</div>
-
 <!-- Programming Languages -->
 ### Programming Languages
 <br clear="both">
@@ -96,106 +66,31 @@
   <img width="12" />
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" height="40" alt="mysql logo" title="My Sql" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" title="Ms Sql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" title="MS Sql" />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" height="40" alt="linux logo" title="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo" title="Ms Dos" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo" title="MS Dos" />
 </div>
 
 <!-- Tools -->
 ### Tools
 <br clear="both">
 <div align="left">
-  <a href="https://www.apachefriends.org/index.html" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" title="XAMPP"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" title=".NET"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" title="Android Studio"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" title="Visual Studio"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub"/>
-  </a>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" title="Android Studios" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo" title=".Net" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" title="Github" />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="Vs Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" title="Visual Studios" />
 </div>
-
-### Programming Languages
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" title="C#" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-</p>
-
-<!-- Web Technologies -->
-### Web Technologies
-<p align="left">
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" title="PHP" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-  <a href="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" title="WordPress" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-</p>
-
-<!-- Other Technologies -->
-### Other Technologies
-  <a href="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" alt="Linux" title="Linux" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-</p>
-
-<!-- Tools -->
-### Tools
-<p align="left">
-  <a href="https://www.apachefriends.org/index.html" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/xampp.png" alt="XAMPP" title="XAMPP" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" title=".NET" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="Android Studio" title="Android Studio" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" title="Visual Studio" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" title="GitHub" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
-  </a>
-</p>
-
-
-
-
-###
-
-<div align="left">
-</div>
-
-###
 
 
 <img src="https://raw.githubusercontent.com/arihantjain-aj/arihantjain-aj/output/snake.svg" alt="Snake animation" width="100%" />
