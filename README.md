@@ -39,7 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
 </div>
-<br clear="both">
 
 <!-- Web Technologies -->
 ### Web Technologies
@@ -53,7 +52,7 @@
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" height="40" alt="wordpress logo" title="Wordpress" />
 </div>
-<br clear="both">
+
 
 <!-- Other Technologies -->
 ### Other Technologies
@@ -71,7 +70,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo" title="MS Dos" />
 </div>
-<br clear="both">
 
 <!-- Tools -->
 ### Tools
