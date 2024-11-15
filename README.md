@@ -32,7 +32,8 @@
 
 <h2>About Me</h2>
 <p><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</p>
-<img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35" style="vertical-align: middle; margin-right: 5px;"> I’m a tech enthusiast who loves diving into programming, AI, and game development.
+<img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35" style="vertical-align: middle; margin-right: 5px; display: inline-block;"> I’m a tech enthusiast who loves diving into programming, AI, and game development.
+
 
 🎮 I’ve created a few games, and you can [check them out on itch.io](#)! I’d love to know what you think.  
 🌟 I’ve earned some badges in AI and other tech skills. You can [take a look at them here](https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b)! 
