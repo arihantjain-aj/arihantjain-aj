@@ -30,7 +30,7 @@
 </p>
 
 <!-- Programming Languages -->
-### <h2>Programming Languages<h2>
+### <h2>Programming Languages</h2>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C Sharp" title="C Sharp" />
@@ -41,7 +41,7 @@
 </div>
 
 <!-- Web Technologies -->
-### <h1>Web Technologies<h1>
+### <h2>Web Technologies</h2>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="Html" />
@@ -55,7 +55,7 @@
 
 
 <!-- Other Technologies -->
-### Other Technologies
+### <h2>Other Technologies</h2>
 <div align="left">
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/android-os.png" height="40" alt="android logo" title="Android" />
@@ -72,7 +72,7 @@
 </div>
 
 <!-- Tools -->
-### Tools
+### <h2>Tools</h2>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" title="Android Studios" />
