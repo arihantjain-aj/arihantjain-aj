@@ -91,4 +91,4 @@
 
 <img src="https://raw.githubusercontent.com/arihantjain-aj/arihantjain-aj/output/snake.svg" alt="Snake animation" width="100%" />
 
-If you like this readme file, please give me star! ❤️
+**If you like this readme file, please give me star! ❤️**
