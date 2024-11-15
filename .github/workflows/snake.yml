@@ -1,16 +1,14 @@
 name: Generate snake animation
 
 on:
-  schedule:
-    - cron: "0 6 * * *"   # 6 AM UTC
-    - cron: "0 12 * * *"  # 12 PM UTC
-    - cron: "0 18 * * *"  # 6 PM UTC
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
 
   workflow_dispatch:
 
   push:
     branches:
-      - master
+    - master
 
 jobs:
   generate:
@@ -20,22 +18,12 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Install dependencies
-        run: |
-          npm install canvas
-
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?palette=github-dark
-            dist/github-contribution-grid-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bff6c2,#a7ff8d,#90f464,#8cf14b,#86d93c
+          outputs: dist/snake.svg?palette=github-dark
+
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
