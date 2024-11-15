@@ -152,7 +152,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
-  <a href="https://wordpress.com/" target="_blank">
+  <a href="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" title="WordPress" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
 </p>
