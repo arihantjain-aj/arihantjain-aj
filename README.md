@@ -2,6 +2,7 @@
   <img src="resources/About.gif" alt="Hi there, I'm Arihant Jain. Nice to meet You" width="700"/>
 </p>
 
+<h2></h2>
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/arihant-jain-5bbbb2278" target="_blank" style="text-decoration: none;">
@@ -28,7 +29,7 @@
     <img src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000" alt="Resume" title="Resume" style="border:0; margin: 0 10px;" width="5%"/>
   </a>
 </p>
-
+<h2></h2>
 <!-- Programming Languages -->
 ### <h2>Programming Languages</h2>
 <div align="left">
