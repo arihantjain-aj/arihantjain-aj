@@ -159,7 +159,7 @@
 
 <!-- Other Technologies -->
 ### Other Technologies
-  <a href="https:"https://img.icons8.com/?size=100&id=104289&format=png&color=000000" target="_blank">
+  <a href="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux" style="background-color: #f0f0f0; border-radius: 50%; padding: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);"/>
   </a>
 </p>
