@@ -9,13 +9,8 @@
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn Profile" style="border:0; margin: 0 10px; " width="5%"/>&nbsp;&nbsp;
   </a>
   
-  <!-- Google Skill Boost -->
-  <a href="" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Skill Boost" title="Google Skill Boost Profile" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
-  </a>
-
   <!-- Itch.io -->
-  <a href="https://arihant-jain.itch.io/" target="_blank" style="text-decoration: none;">
+  <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000" alt="Itch.io" title="Itch.io Profile" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
   </a>
 
@@ -31,19 +26,12 @@
 </p>
 
 <h1>About Me</h1>
-<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h3>
-<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’ve created a few games, and you can [check them out on itch.io](#)! I’d love to know what you think.</h3>
-<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’ve earned some badges in AI and other tech skills. You can <a href="https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b">take a look at them here</a>!</h3>
-<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h3>
-<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h3>
-<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h3>
-
-🎮   
-🌟  
-🎶 Outside of tech, I’m usually listening to music, playing chess, or picking up new skills.   
-✉️ I’m always up for interesting conversations! Feel free to reach out to me via email at [arihantjain7340@gmail.com](mailto:arihantjain7340@gmail.com).  
-⭐ If you enjoy my work, consider giving this repo a star – it means a lot and keeps me motivated!
-
+<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h3>
+<h3><img src="https://img.icons8.com/?size=100&id=QH1HjCxeKXQa&format=png&color=000000" alt="Game" width="35"> I’ve created a few games, and you can [check it out here]<a href="https://arihant-jain.itch.io/">! I’d love to know what you think.</a>!</h3>
+<h3><img src="https://img.icons8.com/?size=100&id=QH1HjCxeKXQa&format=png&color=000000" alt="Badges" width="35"> I’ve earned some badges in AI and other tech skills. You can <a href="https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b">take a look at them here</a>!</h3>
+<h3><img src="https://img.icons8.com/?size=100&id=kjouk7bBK9Nf&format=png&color=000000" alt="Music" width="35"> Outside of tech, I’m usually listening to music, playing chess, or picking up new skills.</h3>
+<h3><img src="https://img.icons8.com/?size=100&id=ihMzI7k32pJf&format=png&color=000000" alt="Mail" width="35"> I’m always up for interesting conversations! Feel free to reach out to me via email at [arihantjain7340@gmail.com]<a href="mailto:arihantjain7340@gmail.com"></a>!</h3>
+<h3>If you enjoy my work, consider giving this repo a star ❤️ – it means a lot and keeps me motivated!</h3>
 
 <!-- Programming Languages -->
 ### <h2>Programming Languages</h2>
@@ -107,4 +95,4 @@
 
 <img src="https://raw.githubusercontent.com/arihantjain-aj/arihantjain-aj/output/snake.svg" alt="Snake animation" width="100%" />
 
-<p>**If you like this readme file, please give me star! ❤️**</p>
+
