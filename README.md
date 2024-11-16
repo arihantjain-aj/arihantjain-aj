@@ -42,10 +42,11 @@
     </td>
   </tr>
 </table>
-<div style="display: inline-flex; align-items: center;">
-  <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35" style="margin-right: 10px;">
-  <span style="line-height: 1;">I’m a tech enthusiast who loves diving into programming, AI, and game development.</span>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35" style="vertical-align: middle;">
+  <span style="vertical-align: middle;">I’m a tech enthusiast who loves diving into programming, AI, and game development.</span>
 </div>
+
 
 
 
