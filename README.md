@@ -32,63 +32,15 @@
 
 <h1>About Me</h1>
 <h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h3>
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none; vertical-align: middle;">
-      <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35">
-    </td>
-    <td style="border: none; vertical-align: middle;">
-      I’m a tech enthusiast who loves diving into programming, AI, and game development.
-    </td>
-  </tr>
-</table>
-<table style="border-collapse: collapse; border: none; opacity: 0;">
-  <tr>
-    <td style="vertical-align: middle;">
-      <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35">
-    </td>
-    <td style="vertical-align: middle;">
-      I’m a tech enthusiast who loves diving into programming, AI, and game development.
-    </td>
-  </tr>
-</table>
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: black; vertical-align: middle;">
-      <h4><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="30<table style="border-collapse: collapse; border: none; opacity: 0;">
-  <tr>
-    <td style="vertical-align: middle;">
-      <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35">
-    </td>
-    <td style="vertical-align: middle;">
-      I’m a tech enthusiast who loves diving into programming, AI, and game development.
-    </td>
-  </tr>
-</table>I’m a tech enthusiast who loves diving into programming, AI, and game development.</h4>
-    </td>
-  </tr>
-</table>
-<span style="display: inline-flex; align-items: center;">
- <h3> <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech Icon" width="35" style="vertical-align: middle; margin-right: 8px;">
-  I’m a tech enthusiast who loves diving into programming, AI, and game development.</h3>
-</span>
+<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’ve created a few games, and you can [check them out on itch.io](#)! I’d love to know what you think.</h3>
+<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’ve earned some badges in AI and other tech skills. You can [take a look at them here]</h3> 
+(https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b)! 
+<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h3>
+<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h3>
+<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h3>
 
-
-
-<img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech Icon" width="35" style="vertical-align: middle; margin-right: 8px;"> I’m a tech enthusiast who loves diving into programming, AI, and game development.
-<table style="border-collapse: collapse; border: 1px solid black; opacity: 1;">
-  <tr>
-    <td style="vertical-align: middle;">
-      <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35">
-    </td>
-    <td style="vertical-align: middle;">
-      I’m a tech enthusiast who loves diving into programming, AI, and game development.
-    </td>
-  </tr>
-</table>
-
-🎮 I’ve created a few games, and you can [check them out on itch.io](#)! I’d love to know what you think.  
-🌟 I’ve earned some badges in AI and other tech skills. You can [take a look at them here](https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b)! 
+🎮   
+🌟  
 🎶 Outside of tech, I’m usually listening to music, playing chess, or picking up new skills.   
 ✉️ I’m always up for interesting conversations! Feel free to reach out to me via email at [arihantjain7340@gmail.com](mailto:arihantjain7340@gmail.com).  
 ⭐ If you enjoy my work, consider giving this repo a star – it means a lot and keeps me motivated!
