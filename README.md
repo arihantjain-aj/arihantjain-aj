@@ -8,7 +8,7 @@
    <a href="https://www.linkedin.com/in/arihant-jain-5bbbb2278" target="_blank" style="text-decoration: none;">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" 
            alt="LinkedIn" title="LinkedIn Profile" style="border: 0;" width="60px" />
-    </a>
+    </a><br><br>
 
   <!-- Portfolio 
   <a href="" target="_blank" style="text-decoration: none;">
