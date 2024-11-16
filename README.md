@@ -31,7 +31,7 @@
 </p>
 
 <h1>About Me</h1>
-<p><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</p>
+<p><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> <h3>I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h3></p>
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; vertical-align: middle;">
