@@ -5,35 +5,15 @@
 <h1>Connect me on</h1>
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/arihant-jain-5bbbb2278" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn Profile" style="border:0; margin: 0 10px; " width="5%"/>&nbsp;&nbsp;
-  </a>
-
-  <!-- Portfolio -->
-  <a href="" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
-  </a>
-
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Portfolio Heading and Icon -->
-  <div style="text-align: left;">
-    <h2 style="margin: 0; font-size: 1.5em;">Check My Portfolio</h2>
-    <a href="YOUR_PORTFOLIO_LINK" target="_blank" style="text-decoration: none;">
-      <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" 
-           alt="Portfolio" title="Portfolio" style="border: 0;" width="60px" />
-    </a>
-  </div>
-
-  <!-- LinkedIn Heading and Icon -->
-  <div style="text-align: right;">
-    <h2 style="margin: 0; font-size: 1.5em;">Find Me on LinkedIn</h2>
-    <a href="https://www.linkedin.com/in/arihant-jain-5bbbb2278" target="_blank" style="text-decoration: none;">
+   <a href="https://www.linkedin.com/in/arihant-jain-5bbbb2278" target="_blank" style="text-decoration: none;">
       <img src="https://img.icons8.com/color/48/000000/linkedin.png" 
            alt="LinkedIn" title="LinkedIn Profile" style="border: 0;" width="60px" />
     </a>
-  </div>
-</div>
 
+  <!-- Portfolio 
+  <a href="" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
+  </a><br><br> -->
       
 
 <h1>A little bit about Me</h1>
