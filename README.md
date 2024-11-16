@@ -54,7 +54,8 @@
  <h3> <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech Icon" width="35" style="vertical-align: middle; margin-right: 8px;">
   I’m a tech enthusiast who loves diving into programming, AI, and game development.</h3>
 </span>
-
+| <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech Icon" width="30" style="vertical-align: middle;"> | I’m a tech enthusiast who loves diving into programming, AI, and game development. |
+|---|---|
 
 
 
