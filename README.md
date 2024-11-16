@@ -17,7 +17,7 @@
  
 
 <h1>A little bit about Me</h1>
-<h3></h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech" width="35" > I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.<h3>
+<h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech" width="35" > I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.<h3>
 <h3><img src="https://img.icons8.com/?size=100&id=QH1HjCxeKXQa&format=png&color=000000" alt="Game" width="35"> I’ve created a few games, and you can <a href="https://arihant-jain.itch.io/">check it out here! </a>I’d love to know what you think.</h3>
 <h3><img src="https://img.icons8.com/?size=100&id=44053&format=png&color=000000" alt="Badges" width="35"> I’ve earned some badges in AI and other tech skills. You can <a href="https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b">take a look at them here!</a></h3>
 <h3><img src="https://img.icons8.com/?size=100&id=kjouk7bBK9Nf&format=png&color=000000" alt="Music" width="35"> Outside of tech, I’m usually listening to music, playing chess, or picking up new skills.</h3>
