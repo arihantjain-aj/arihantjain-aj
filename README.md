@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<h2>About Me</h2>
+<h1>About Me</h1>
 <p><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</p>
 <table style="border-collapse: collapse; border: none;">
   <tr>
