@@ -28,13 +28,13 @@
 <h1>About Me</h1>
 <h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech" width="35"> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h3>
 <h3><img src="https://img.icons8.com/?size=100&id=QH1HjCxeKXQa&format=png&color=000000" alt="Game" width="35"> I’ve created a few games, and you can <a href="https://arihant-jain.itch.io/">check it out here! </a>I’d love to know what you think.</h3>
-<h3><img src="https://img.icons8.com/?size=100&id=QH1HjCxeKXQa&format=png&color=000000" alt="Badges" width="35"> I’ve earned some badges in AI and other tech skills. You can <a href="https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b">take a look at them here!</a></h3>
+<h3><img src="https://img.icons8.com/?size=100&id=44053&format=png&color=000000" alt="Badges" width="35"> I’ve earned some badges in AI and other tech skills. You can <a href="https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b">take a look at them here!</a></h3>
 <h3><img src="https://img.icons8.com/?size=100&id=kjouk7bBK9Nf&format=png&color=000000" alt="Music" width="35"> Outside of tech, I’m usually listening to music, playing chess, or picking up new skills.</h3>
-<h3><img src="https://img.icons8.com/?size=100&id=ihMzI7k32pJf&format=png&color=000000" alt="Mail" width="35"> I’m always up for interesting conversations! Feel free to reach out to me via<a href="mailto:arihantjain7340@gmail.com">e-mail</a></h3>
+<h3><img src="https://img.icons8.com/?size=100&id=ihMzI7k32pJf&format=png&color=000000" alt="Mail" width="35"> I’m always up for interesting conversations! Feel free to reach out to me via <a href="mailto:arihantjain7340@gmail.com">e-mail</a>.</h3>
 <h3>**If you like my work, consider giving this repo a star ❤️ – it means a lot and keeps me motivated!**</h3>
 
 <!-- Programming Languages -->
-### <h2>Programming Languages</h2>
+### <h1>Programming Languages</h1>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C Sharp" title="C Sharp" />
@@ -45,7 +45,7 @@
 </div>
 
 <!-- Web Technologies -->
-### <h2>Web Technologies</h2>
+### <h1>Web Technologies</h1>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="Html" />
@@ -59,7 +59,7 @@
 
 
 <!-- Other Technologies -->
-### <h2>Other Technologies</h2>
+### <h1>Other Technologies</h1>
 <div align="left">
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/android-os.png" height="40" alt="android logo" title="Android" />
@@ -76,7 +76,7 @@
 </div>
 
 <!-- Tools -->
-### <h2>Tools</h2>
+### <h1>Tools</h1>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" title="Android Studios" />
