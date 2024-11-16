@@ -76,7 +76,16 @@
 
 
 <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech Icon" width="35" style="vertical-align: middle; margin-right: 8px;"> I’m a tech enthusiast who loves diving into programming, AI, and game development.
-
+<table style="border-collapse: collapse; border: 1px solid black; opacity: 1;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35">
+    </td>
+    <td style="vertical-align: middle;">
+      I’m a tech enthusiast who loves diving into programming, AI, and game development.
+    </td>
+  </tr>
+</table>
 
 🎮 I’ve created a few games, and you can [check them out on itch.io](#)! I’d love to know what you think.  
 🌟 I’ve earned some badges in AI and other tech skills. You can [take a look at them here](https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b)! 
