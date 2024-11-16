@@ -31,7 +31,7 @@
 <h3><img src="https://img.icons8.com/?size=100&id=QH1HjCxeKXQa&format=png&color=000000" alt="Badges" width="35"> I’ve earned some badges in AI and other tech skills. You can <a href="https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b">take a look at them here!</a></h3>
 <h3><img src="https://img.icons8.com/?size=100&id=kjouk7bBK9Nf&format=png&color=000000" alt="Music" width="35"> Outside of tech, I’m usually listening to music, playing chess, or picking up new skills.</h3>
 <h3><img src="https://img.icons8.com/?size=100&id=ihMzI7k32pJf&format=png&color=000000" alt="Mail" width="35"> I’m always up for interesting conversations! Feel free to reach out to me via email at <a href="mailto:arihantjain7340@gmail.com">arihantjain7340@gmail.com</a></h3>
-<h3>If you enjoy my work, consider giving this repo a star ❤️ – it means a lot and keeps me motivated!</h3>
+<h3>**If you like my work, consider giving this repo a star ❤️ – it means a lot and keeps me motivated!**</h3>
 
 <!-- Programming Languages -->
 ### <h2>Programming Languages</h2>
