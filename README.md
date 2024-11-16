@@ -42,6 +42,16 @@
     </td>
   </tr>
 </table>
+<table style="border-collapse: collapse; border: none; opacity: 0;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35">
+    </td>
+    <td style="vertical-align: middle;">
+      I’m a tech enthusiast who loves diving into programming, AI, and game development.
+    </td>
+  </tr>
+</table>
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: black; vertical-align: middle;">
