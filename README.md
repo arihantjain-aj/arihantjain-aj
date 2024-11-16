@@ -45,14 +45,14 @@
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; vertical-align: middle;">
-      <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35">
-      <h3>I’m a tech enthusiast who loves diving into programming, AI, and game development.</h3>
+      <h3><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="My Badges" width="35">
+      I’m a tech enthusiast who loves diving into programming, AI, and game development.</h3>
     </td>
   </tr>
 </table>
 <span style="display: inline-flex; align-items: center;">
- <h3> <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech Icon" width="35" style="vertical-align: middle; margin-right: 8px;"
-  I’m a tech enthusiast who loves diving into programming, AI, and game development.></h3>
+ <h3> <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech Icon" width="35" style="vertical-align: middle; margin-right: 8px;">
+  I’m a tech enthusiast who loves diving into programming, AI, and game development.</h3>
 </span>
 
 
