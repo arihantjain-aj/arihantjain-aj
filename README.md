@@ -2,31 +2,45 @@
   <img src="resources/About.gif" alt="Hi there, I'm Arihant Jain. Nice to meet You" width="700"/>
 </p>
 
-<h2></h2>
+<h1>Connect me on</h1>
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/arihant-jain-5bbbb2278" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" title="LinkedIn Profile" style="border:0; margin: 0 10px; " width="5%"/>&nbsp;&nbsp;
-  </a>
-  
-  <!-- Itch.io -->
-  <a href="" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=mVIL3VQMOa5H&format=png&color=000000" alt="Itch.io" title="Itch.io Profile" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
   </a>
 
   <!-- Portfolio -->
   <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
   </a>
-      
-  <!-- Resume -->
-  <a href="https://docs.google.com/document/d/1XLMYuQn8EONP2Q9CjjNIgS9VUQ5F8qoz/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=44834&format=png&color=000000" alt="Resume" title="Resume" style="border:0; margin: 0 10px;" width="5%"/>
-  </a>
-</p>
 
-<h1>About Me</h1>
-<h4><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech" width="35">💻 I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h4>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Portfolio Heading and Icon -->
+  <div style="text-align: center;">
+    <h2 style="margin: 0; font-size: 1.5em;">Check My Portfolio</h2>
+    <a href="YOUR_PORTFOLIO_LINK" target="_blank" style="text-decoration: none;">
+      <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" 
+           alt="Portfolio" title="Portfolio" style="border: 0;" width="60px" />
+    </a>
+  </div>
+
+  <!-- Main Heading -->
+  <h1 style="margin: 0; font-size: 2em; text-align: center;">Connect Me On</h1>
+
+  <!-- LinkedIn Heading and Icon -->
+  <div style="text-align: center;">
+    <h2 style="margin: 0; font-size: 1.5em;">Find Me on LinkedIn</h2>
+    <a href="https://www.linkedin.com/in/arihant-jain-5bbbb2278" target="_blank" style="text-decoration: none;">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" 
+           alt="LinkedIn" title="LinkedIn Profile" style="border: 0;" width="60px" />
+    </a>
+  </div>
+</div>
+
+      
+
+<h1>A little bit about Me</h1>
+<h4><img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech" width="35">I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.</h4>
 <h3><img src="https://img.icons8.com/?size=100&id=QH1HjCxeKXQa&format=png&color=000000" alt="Game" width="35"> I’ve created a few games, and you can <a href="https://arihant-jain.itch.io/">check it out here! </a>I’d love to know what you think.</h3>
 <h3><img src="https://img.icons8.com/?size=100&id=44053&format=png&color=000000" alt="Badges" width="35"> I’ve earned some badges in AI and other tech skills. You can <a href="https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b">take a look at them here!</a></h3>
 <h3><img src="https://img.icons8.com/?size=100&id=kjouk7bBK9Nf&format=png&color=000000" alt="Music" width="35"> Outside of tech, I’m usually listening to music, playing chess, or picking up new skills.</h3>
