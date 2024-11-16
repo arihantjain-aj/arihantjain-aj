@@ -42,10 +42,11 @@
     </td>
   </tr>
 </table>
-<span style="display: inline-flex; align-items: center;">
-  <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech Icon" width="35" style="vertical-align: middle; margin-right: 8px;">
+<span style="display: inline-flex; align-items: center; line-height: 1;">
+  <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech Icon" width="35" style="margin-right: 8px; margin-bottom: -4px;">
   I’m a tech enthusiast who loves diving into programming, AI, and game development.
 </span>
+
 
 
 
