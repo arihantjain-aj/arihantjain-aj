@@ -14,7 +14,7 @@
   <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
   </a><br><br> -->
-      
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me: 
 
 <h1>A little bit about Me</h1>
 ### <img src="https://img.icons8.com/?size=100&id=44770&format=png&color=000000" alt="Tech" width="35"/> I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.
