@@ -14,8 +14,10 @@
   <a href="" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
   </a><br><br> -->
- <!-- Gif By https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif -->
-#  <img src="resources/Developer.gif" width="55" />A little bit about Me 
+
+ <!-- Gif By  -->
+#  <img src="resources/Developer.gif](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="55" />A little bit about Me 
+<img align='right' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200'>
 - 💻👨🏻‍💻 I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.
 - ⚔️ I’ve created a few games, and you can  [check it out here!](https://arihant-jain.itch.io/) I’d love to know what you think.
 - 🥇 I’ve earned some badges in AI and other tech skills. You can [take a look at them here!](https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b)
