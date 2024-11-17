@@ -24,7 +24,7 @@
 <h3>**If you like my work, consider giving this repo a star ❤️ – it means a lot and keeps me motivated!**</h3><br><br>
 
 <!-- Programming Languages -->
-### <h1>Programming Languages</h1>
+# Programming Languages
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C Sharp" title="C Sharp" />
@@ -49,7 +49,7 @@
 
 
 <!-- Other Technologies -->
-### <h1>Other Technologies</h1>
+<h1>Other Technologies</h1>
 <div align="left">
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/android-os.png" height="40" alt="android logo" title="Android" />
@@ -66,7 +66,7 @@
 </div>
 
 <!-- Tools -->
-### <h1>Tools</h1>
+<h1>Tools</h1>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" title="Android Studios" />
