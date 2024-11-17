@@ -15,7 +15,7 @@
     <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
   </a><br><br> -->
 
-# 👩🏻‍💼👨🏻‍💻 A little bit about Me
+# 👨🏻‍💻 A little bit about Me
 - 💻🤖 I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.
 - ⚔️⚔️ I’ve created a few games, and you can  [check it out here!](https://arihant-jain.itch.io/) I’d love to know what you think.
 - 🥇 I’ve earned some badges in AI and other tech skills. You can [take a look at them here!](https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b)
@@ -36,7 +36,7 @@
 </div>
 
 <!-- Web Technologies -->
-# 🌐 Web Technologies
+# 🌐Web Technologies
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="Html" />
@@ -50,7 +50,7 @@
 
 
 <!-- Other Technologies -->
-#💡Other Technologies
+# 💡Other Technologies
 <div align="left">
   <img width="12" />
   <img src="https://img.icons8.com/color/48/000000/android-os.png" height="40" alt="android logo" title="Android" />
@@ -67,7 +67,7 @@
 </div>
 
 <!-- Tools -->
-# 🛠 Tools
+# 🛠Tools
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" title="Android Studios" />
