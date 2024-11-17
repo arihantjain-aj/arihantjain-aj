@@ -2,7 +2,7 @@
   <img src="resources/About.gif" alt="Hi there, I'm Arihant Jain. Nice to meet You" width="700"/>
 </p>
 
-# 🔎Connect me on
+# Connect me on
 <p align="left">
   <!-- LinkedIn -->
    <a href="https://www.linkedin.com/in/arihant-jain-5bbbb2278" target="_blank" style="text-decoration: none;">
@@ -15,7 +15,7 @@
     <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" style="border:0; margin: 0 10px;" width="5%"/>&nbsp;&nbsp;
   </a><br><br> -->
 
-# 👨🏻‍💻A little bit about Me
+# 👨🏻‍💻 A little bit about Me
 - 💻 I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.
 - ⚔️ I’ve created a few games, and you can  [check it out here!](https://arihant-jain.itch.io/) I’d love to know what you think.
 - 🥇 I’ve earned some badges in AI and other tech skills. You can [take a look at them here!](https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b)
