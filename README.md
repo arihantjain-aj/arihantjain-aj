@@ -20,8 +20,7 @@
 - I’ve created a few games, and you can  [check it out here!](https://arihant-jain.itch.io/) I’d love to know what you think.
 - I’ve earned some badges in AI and other tech skills. You can [take a look at them here!](https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b)
 - ♔ Outside of tech, I’m usually listening to music, playing chess, or picking up new skills.
-- 💌✉️ ![image](https://github.com/user-attachments/assets/bdb3ee10-3083-483f-9014-ad4fba941c34)
-I’m always up for interesting conversations! Feel free to reach out to me via [Email](mailto:arihantjain7340@gmail.com).
+- 💌 I’m always up for interesting conversations! Feel free to reach out to me via [Email](mailto:arihantjain7340@gmail.com).
 - **If you like my work, consider giving this repo a star ❤️ – it means a lot and keeps me motivated!**<br><br>
 
 
