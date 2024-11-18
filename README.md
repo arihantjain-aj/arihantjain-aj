@@ -17,7 +17,7 @@
 
  <!-- Gif By  -->
 #  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="55" />A little bit about Me 
-### <img align='right' src='https://miro.medium.com/v2/resize:fit:786/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif' width='200'>
+### <img align='right' src='https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif' width='200'>
 - 💻👨🏻‍💻 I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.
 - ⚔️ I’ve created a few games, and you can  [check it out here!](https://arihant-jain.itch.io/) I’d love to know what you think.
 - 🥇 I’ve earned some badges in AI and other tech skills. You can [take a look at them here!](https://www.cloudskillsboost.google/public_profiles/3b11afc8-9ade-41a3-8f85-4fc23407502b)
