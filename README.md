@@ -2,7 +2,7 @@
   <img src="resources/About.gif" alt="Hi there, I'm Arihant Jain. Nice to meet You" width="700"/>
 </p>
 
-# Connect me on
+#   Connect me on
 <p align="left">
   <!-- LinkedIn -->
    <a href="https://www.linkedin.com/in/arihant-jain-5bbbb2278" target="_blank" style="text-decoration: none;">
