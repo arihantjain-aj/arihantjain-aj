@@ -29,11 +29,8 @@
 <!-- Programming Languages -->
 # ♨️Programming Languages
 <div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C Sharp" title="C Sharp" /> <img src="https://img.shields.io/badge/CSS%20-%20Css%20?logo=cbc" height="30" alt="C Sharp" title="C Sharp" /> 
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C Sharp" title="C Sharp" /> <img src="https://img.shields.io/badge/C%23%20-%20purple" height="30" alt="C Sharp" title="C Sharp" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" title="Java" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" title="Python" />
 </div>
 
