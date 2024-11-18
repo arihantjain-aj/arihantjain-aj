@@ -16,7 +16,7 @@
   </a><br><br> -->
 
  <!-- Gif By  -->
-#  <img src="resources/Developer.gif](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="55" />A little bit about Me 
+#  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="55" />A little bit about Me 
 ### <img align='right' src='https://miro.medium.com/v2/resize:fit:786/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif' width='200'>
 - 💻👨🏻‍💻 I’m a tech enthusiast who loves diving into Programming, AI, and Game Development.
 - ⚔️ I’ve created a few games, and you can  [check it out here!](https://arihant-jain.itch.io/) I’d love to know what you think.
