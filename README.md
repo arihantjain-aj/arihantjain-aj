@@ -10,10 +10,7 @@
            alt="LinkedIn" title="LinkedIn Profile" style="border: 0;" width="60px" />
     </a><br><br>
 
-# Visit My Portfolio  
-  <a href="https://arihantjain-aj.github.io/Portfolio/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" style="border:0; margin: 0 10px;" width="5%"/>
-  </a><br><br> 
+
 
  <!-- Gif By  -->
 #  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="55" />A little bit about Me 
@@ -25,7 +22,10 @@
 - 💌 I’m always up for interesting conversations! Feel free to reach out to me via [Email](mailto:arihantjain7340@gmail.com).
 - **If you like my work, consider giving this repo a star ❤️ – it means a lot and keeps me motivated!**<br><br>
 
-
+# Visit My Portfolio  
+  <a href="https://arihantjain-aj.github.io/Portfolio/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" style="border:0; margin: 0 10px;" width="5%"/>
+  </a><br><br> 
 <!-- Programming Languages -->
 # ♨️Programming Languages
 <div align="left">
