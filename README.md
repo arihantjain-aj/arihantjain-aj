@@ -26,6 +26,8 @@
   <a href="https://arihantjain-aj.github.io/Portfolio/" target="_blank" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=100&id=pY199Dq3FLNm&format=png&color=000000" alt="Portfolio" title="Portfolio" style="border:0; margin: 0 10px;" width="5%"/>
   </a><br><br> 
+
+  
 <!-- Programming Languages -->
 # ♨️Programming Languages
 <div align="left">
